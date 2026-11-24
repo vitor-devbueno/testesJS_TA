@@ -1,5 +1,5 @@
 function funcaogamer() {
-    console.log('Hello, word!!')
+    console.log('Hello, te peguei')
 }
 
 
